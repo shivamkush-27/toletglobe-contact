@@ -240,7 +240,7 @@ const Contact = () => {
             <ReCAPTCHA
               sitekey="6Le3ojcqAAAAABYw--yiLX9gqFUXD6iFhRQcpaQd"
               onChange={onChange}
-              className="pt-3"
+              className="pt-3" theme="dark"
             />
           </div>
           {/* Submit Button */}
