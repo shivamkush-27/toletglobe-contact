@@ -159,7 +159,7 @@ const Contact = () => {
               required
               className="bg-transparent border border-gray-300 text-grey-700 text-sm rounded-sm block w-full p-2.5"
             >
-              <option hidden disabled>
+              <option value="">
                 Select a Topic
               </option>
               <option value="Rental House">Rental House</option>
