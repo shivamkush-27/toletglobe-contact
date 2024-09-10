@@ -18,6 +18,7 @@ const Contact = () => {
   };
 
   const onChange = () => {};
+
   // Handle form submission
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -29,7 +30,7 @@ const Contact = () => {
     };
     
     try {
-      const response = await fetch('https://toletglobe-ge7g.onrender.com/v/api/forms/contact', {
+      const response = await fetch('https://toletglobe-ge7g.onrender.com/api/forms/contact', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
