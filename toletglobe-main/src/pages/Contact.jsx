@@ -157,9 +157,9 @@ const Contact = () => {
               value={formData.topic}
               onChange={handleChange}
               required
-              className="bg-transparent border border-gray-300 text-white text-sm rounded-sm block w-full p-2.5"
+              className="bg-transparent border border-gray-300 text-grey-700 text-sm rounded-sm block w-full p-2.5"
             >
-              <option selected hidden disabled>
+              <option hidden disabled>
                 Select a Topic
               </option>
               <option value="Rental House">Rental House</option>
