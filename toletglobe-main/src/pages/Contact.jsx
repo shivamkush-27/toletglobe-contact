@@ -94,11 +94,11 @@ const Contact = () => {
                   <span>Our friendly team is here to help</span>
                   <br />
                   <a
-                    href="mailto:to_let@gmail.com"
+                    href="mailto:hello@toletglobe.in"
                     target="blank"
                     className="text-[#007bff]"
                   >
-                    to_let@gmail.com
+                    hello@toletglobe.in
                   </a>
                 </p>
               </li>
@@ -130,11 +130,11 @@ const Contact = () => {
                   <span>Mon - Fri 8 AM to 10 PM</span>
                   <br />
                   <a
-                    href="tel:+919876543210"
+                    href="tel:+918707727347"
                     target="blank"
                     className="text-[#007bff]"
                   >
-                    +91 9876543210
+                    +91 8707727347
                   </a>
                 </span>
               </li>
@@ -246,7 +246,7 @@ const Contact = () => {
           {/* Submit Button */}
           <button
             type="submit"
-            className="w-full inline-block px-4 py-3 text-sm text-center text-white bg-blue-500 rounded-sm hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium"
+            className="w-full inline-block px-4 py-3 text-sm text-center text-white bg-[#04C4B1] rounded-sm focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium"
           >
             Send message
           </button>

@@ -49,7 +49,7 @@ const Header = () => {
           <li>
             <NavLink
               to="/"
-              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#172554] block lg:inline"
+              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#c8a21c] block lg:inline"
               onClick={closeMenu}
             >
               Home
@@ -58,7 +58,7 @@ const Header = () => {
           <li>
             <NavLink
               to="/service"
-              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#172554] block lg:inline"
+              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#c8a21c] block lg:inline"
               onClick={closeMenu}
             >
               Service
@@ -67,7 +67,7 @@ const Header = () => {
           <li>
             <NavLink
               to="/blog"
-              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#172554] block lg:inline"
+              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#c8a21c] block lg:inline"
               onClick={closeMenu}
             >
               Blog
@@ -76,7 +76,7 @@ const Header = () => {
           <li>
             <NavLink
               to="/contact"
-              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#172554] block lg:inline"
+              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#c8a21c] block lg:inline"
               onClick={closeMenu}
             >
               Contact
@@ -85,7 +85,7 @@ const Header = () => {
           <li>
             <NavLink
               to="/about"
-              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#172554] block lg:inline"
+              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#c8a21c] block lg:inline"
               onClick={closeMenu}
             >
               About
@@ -94,7 +94,7 @@ const Header = () => {
           <li>
             <NavLink
               to="/property-listing"
-              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#172554] block lg:inline"
+              className="text-white p-[0.5rem] mx-0 my-[0.5rem] rounded hover:bg-[#c8a21c] block lg:inline"
               onClick={closeMenu}
             >
               Property Listing
